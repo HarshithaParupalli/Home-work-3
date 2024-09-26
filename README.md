@@ -1,1 +1,2 @@
-# Home-work-3
+homework3 calculator
+
